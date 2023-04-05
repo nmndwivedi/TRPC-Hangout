@@ -1,4 +1,4 @@
-# TRPC-Telegram
+# TRPC-Hangout
 
 Hello TRPC/T3 Developers! I've made a no-spam telegram group for us to hangout, share what we're building with TRPC and help each other become better at TRPC development! 
 
